@@ -13,3 +13,4 @@ This is for testing
 # squash
 * Started development
 * adding code
+* Development is in progress as code is being developed
