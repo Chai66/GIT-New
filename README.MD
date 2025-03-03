@@ -8,3 +8,4 @@ This is for testing
 # rebase
 * rebase is another merge strategy
 * development is still under progress
+* Few enhancements remaining
