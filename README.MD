@@ -18,3 +18,4 @@ This is for testing
 
 # conflict
 * this is from developer-1, want to keep this line of code 
+* this is again from developer-1, want to add more code 
