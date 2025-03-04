@@ -15,3 +15,6 @@ This is for testing
 * adding code
 * Development is in progress as code is being developed
 * Now dev is completed
+
+# conflict
+* this is from developer-1, want to keep this line of code 
